@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScottLuxton
-- 👀 I’m interested in golfing, skiing, kickboxing, games with friends, outdoors, indoors, music, movies,
+- 👀 I’m interested in golfing, skiing, kickboxing, games with friends, business, networking, logistics, supply chains, outdoors, indoors, music, movies,laying on beaches,
 - 🌱 I’m currently becoming a full stack developer with EvolveU
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me scott.luxton1313@gmail.com
